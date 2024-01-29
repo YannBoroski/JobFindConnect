@@ -1,0 +1,23 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+/*NavBar*/
+.navbar {
+    background-color: rgb(245, 245, 245);
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar .nav-link {
+    color: #313131;
+}
+
+.home-logo:hover{
+    opacity: 0.8;
+}
+
+.nav-item:hover {
+    opacity: 0.8;
+}
